@@ -6,7 +6,7 @@ We run a weekly reading group where we discuss why the CS community chooses the 
  
 We realize that the dilemmas we face in our research, while often portrayed as new and unique to Computer Science or "AI", are not unprecedented.
 
-We meet weekly on Mondays, at 1PM PST, through zoom. If you are interested in joining, [subscribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/computer_science_civil_society).
+We meet weekly on Mondays, at 1PM PST, through zoom. If you are interested in joining, [subscribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/computer_science_civil_society) or get in touch at [stanford.cscs@gmail.com](stanford.cscs@gmail.com)
 
 ### Reading list
 
