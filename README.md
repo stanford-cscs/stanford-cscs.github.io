@@ -1,5 +1,5 @@
 # Computer Science and Civil Society @ Stanford
-
+-------------------
 ### Who are we?
  
 **Computer Science and Civil Society** is a group of Stanford students concerned with the lack of deep engagement of the computer science community with the broader impact that our research has on society. We are graduate students and post doctoral fellows in Computer Science, Cyber Policy, Biomedical Informatics and Management Science and Engineering at Stanford University.
