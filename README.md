@@ -6,7 +6,7 @@ We run a weekly reading group where we discuss why the CS community chooses the 
  
 We realize that the dilemmas we face in our research, while often portrayed as new and unique to Computer Science or "AI", are not unprecedented.
 
-We meet weekly on Mondays, at 1PM PST, through zoom. If you are interested in joining, [subscribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/computer_science_civil_society) or get in touch at [agataf@stanford.edu](mailto:agataf@stanford.edu)
+We meet weekly on Mondays, at 1PM PST, through zoom. If you are interested in joining, [subscribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/computer_science_civil_society) or get in touch at [agataf@stanford.edu](mailto:agataf@stanford.edu).
 
 ### Our Writing
 * [If We’re Not Careful, Tech Could Hurt the Fight against COVID-19: Here are four questions we need to ask ourselves](https://blogs.scientificamerican.com/observations/if-were-not-careful-tech-could-hurt-the-fight-against-covid-19/)
