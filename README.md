@@ -6,7 +6,10 @@ We run a weekly reading group where we discuss why the CS community chooses the 
  
 We realize that the dilemmas we face in our research, while often portrayed as new and unique to Computer Science or "AI", are not unprecedented.
 
-We meet weekly on Mondays, at 1PM PST, through zoom. If you are interested in joining, [subscribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/computer_science_civil_society) or get in touch at [stanford.cscs@gmail.com](stanford.cscs@gmail.com)
+We meet weekly on Mondays, at 1PM PST, through zoom. If you are interested in joining, [subscribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/computer_science_civil_society) or get in touch at [agataf@stanford.edu](mailto:agataf@stanford.edu)
+
+### Our Writing
+* [If We’re Not Careful, Tech Could Hurt the Fight against COVID-19: Here are four questions we need to ask ourselves](https://blogs.scientificamerican.com/observations/if-were-not-careful-tech-could-hurt-the-fight-against-covid-19/)
 
 ### Reading list
 
@@ -16,7 +19,7 @@ We meet weekly on Mondays, at 1PM PST, through zoom. If you are interested in jo
 * [When the Implication Is Not to Design (Technology)](https://www.ics.uci.edu/~djp3/classes/2012_01_INF134/papers/impl9-rev.pdf)
 * [Mozilla Zine: With Great Tech Comes Great Responsibility](https://assets.mofoprod.net/network/documents/Mozilla_Zine.pdf)
 * [Ethical OS checklist](https://ethicalos.org/)
-* [Principled Artificial Intelligence](https://cyber.harvard.edu/publication/2020/principled-ai)
+* [The False Promise of Risk Assessments: Epistemic Reform and the Limits of Fairness](https://scholar.harvard.edu/files/bgreen/files/20-fat-risk.pdf)
 
 ### Affiliations
 
