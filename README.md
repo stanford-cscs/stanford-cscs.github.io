@@ -13,13 +13,18 @@ We meet weekly on Mondays, at 1PM PST, through zoom. If you are interested in jo
 
 ### Reading list
 
-* [How Big Tech Manipulates Academia to Avoid Regulation](https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/)
-* [Roles for Computing in Social Change](https://arxiv.org/abs/1912.04883)
-* [Race After Technology Ch. 2](https://www.ruhabenjamin.com/race-after-technology)
-* [When the Implication Is Not to Design (Technology)](https://www.ics.uci.edu/~djp3/classes/2012_01_INF134/papers/impl9-rev.pdf)
+* [How Big Tech Manipulates Academia to Avoid Regulation](https://theintercept.com/2019/12/20/mit-ethical-ai-artificial-intelligence/) by Rodrigo Ochigame
+* [Roles for Computing in Social Change](https://arxiv.org/abs/1912.04883) by Rediet Abebe et al
+* [Race After Technology Ch. 2](https://www.ruhabenjamin.com/race-after-technology) by Ruha Benjamin
+* [When the Implication Is Not to Design (Technology)](https://www.ics.uci.edu/~djp3/classes/2012_01_INF134/papers/impl9-rev.pdf) by Eric P. S. Baumer and M. Six Silberman
 * [Mozilla Zine: With Great Tech Comes Great Responsibility](https://assets.mofoprod.net/network/documents/Mozilla_Zine.pdf)
 * [Ethical OS checklist](https://ethicalos.org/)
-* [The False Promise of Risk Assessments: Epistemic Reform and the Limits of Fairness](https://scholar.harvard.edu/files/bgreen/files/20-fat-risk.pdf)
+* [Governing with Algorithmic Impact Assessments: Six Observations](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3584818) by Emanuel Moss et al
+* [The False Promise of Risk Assessments: Epistemic Reform and the Limits of Fairness](https://scholar.harvard.edu/files/bgreen/files/20-fat-risk.pdf) by Ben Green
+* [Critical Race Theory for HCI](https://dl.acm.org/doi/abs/10.1145/3313831.3376392) by Ihudiya Finda Ogbonnaya-Ogburu et al
+* [Towards decolonising computational sciences](https://arxiv.org/abs/2009.14258) by Abeba Birhane and Olivia Guest
+* [“Good” isn’t good enough](https://www.benzevgreen.com/wp-content/uploads/2019/11/19-ai4sg.pdf) by Ben Green
+* [Abolish Big Data](https://datasociety.net/library/abolish-big-data/) by Yeshimabeit Milner
 
 ### Affiliations
 
