@@ -26,7 +26,7 @@ Our past discussion topics and associated readings can be found [here](https://d
 * [Abolish Big Data](https://datasociety.net/library/abolish-big-data/) by Yeshimabeit Milner
 
 ### Join us!
-We meet weekly on Fridays, at 2pm-3pm PST at the treewell in the Engineering Quad, through zoom. If you are interested in joining, [subscribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/computer_science_civil_society). If you are interested in presenting at one of our meetings or would like to suggest a discussion topic, feel free to get in touch at [rsahoo@stanford.edu](mailto:rsahoo@stanford.edu).
+We meet weekly on Fridays, at 2pm-3pm PST at the treewell in the Engineering Quad. If you are interested in joining, [subscribe to our mailing list](https://mailman.stanford.edu/mailman/listinfo/computer_science_civil_society). If you are interested in presenting at one of our meetings or would like to suggest a discussion topic, feel free to get in touch at [rsahoo@stanford.edu](mailto:rsahoo@stanford.edu).
 
 
 ### Affiliations
