@@ -1,3 +1,4 @@
+#### Computing & Society @ Stanford
 ### Who are we?
  
 **Computing & Society** is an interdisciplinary group of Stanford students dedicated to bringing more discussions about the ethical and societal implications of computing and computer science research to the Stanford community. We are graduate students and post doctoral fellows in Computer Science, Cyber Policy, Biomedical Informatics and Management Science and Engineering at Stanford University.
